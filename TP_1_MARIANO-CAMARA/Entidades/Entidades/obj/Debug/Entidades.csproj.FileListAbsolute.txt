@@ -1,0 +1,24 @@
+C:\Users\matias.camara\Desktop\PROG 2\tp1\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\matias.camara\Desktop\PROG 2\tp1\Entidades\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\matias.camara\Desktop\PROG 2\tp1\Entidades\Entidades\obj\Debug\Entidades.csproj.GenerateResource.Cache
+C:\Users\matias.camara\Desktop\PROG 2\tp1\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\matias.camara\Desktop\PROG 2\tp1\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\matias.camara\Desktop\PROG 2\tp1\Entidades\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\matias.camara\Desktop\PROG 2\tp1\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\matias.camara\Desktop\PROG 2\tp1\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\MC\tp1(finito)\Entidades\Entidades\bin\Debug\Entidades.dll.config
+D:\MC\tp1(finito)\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\MC\tp1(finito)\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\MC\tp1(finito)\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\MC\tp1(finito)\Entidades\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+D:\MC\tp1(finito)\Entidades\Entidades\obj\Debug\Entidades.csproj.GenerateResource.Cache
+D:\MC\tp1(finito)\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\MC\tp1(finito)\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\Entidades\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\Entidades\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\Entidades\Entidades\obj\Debug\Entidades.csproj.GenerateResource.Cache
+C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\Entidades\Entidades\obj\Debug\Entidades.pdb
