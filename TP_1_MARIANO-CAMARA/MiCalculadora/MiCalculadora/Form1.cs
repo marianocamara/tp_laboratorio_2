@@ -18,12 +18,17 @@ namespace MiCalculadora
             InitializeComponent();
         }
 
+        /// <summary>
+        /// click cierra el form
+        /// </summary>
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-       
+        /// <summary>
+        /// limpia los valores de de los elementos del form
+        /// </summary>
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             comboBox1.SelectedIndex = -1;
@@ -32,12 +37,18 @@ namespace MiCalculadora
             txtResultado.Text = String.Empty;
         }
 
+        /// <summary>
+        /// click convierte decimal a binario  y lo muestra en label resultado
+        /// </summary>
         private void DecimalBinario_Click(object sender, EventArgs e)
         {
             if (!(String.IsNullOrEmpty(txtResultado.Text)))
                 txtResultado.Text = Numero.DecimalBinario(txtResultado.Text);            
         }
 
+        /// <summary>
+        /// click convierte binario a decimal y lo muestra en label resultado
+        /// </summary>
         private void BinarioDecimal_click(object sender, EventArgs e)
         {
             if (!(String.IsNullOrEmpty(txtResultado.Text))) {
@@ -45,6 +56,14 @@ namespace MiCalculadora
             }
             }
 
+        /// <summary>
+        /// realiza una operacion entre los numeros en textbox1 y texbox2, toma el operando del combobox1
+        /// utiliza metodo operar de Entidades.Calculadora
+        /// </summary>
+        /// <param name="numero1">string ingresado en el textBox1</param>
+        /// <param name="numero2">string ingresado en el textBox2</param>
+        /// <param name="operador">string seleccionado del comboBox1</param>
+        /// <returns></returns>
         public static double Operar(string numero1, string numero2, string operador)
         {
             Numero num1 = new Numero(numero1);
@@ -53,6 +72,10 @@ namespace MiCalculadora
             return resultado;
         }
 
+        /// <summary>
+        /// clik realiza una operacion entre los numeros en textbox1 y texbox2, 
+        /// toma el operando del combobox1 y lo muestra en label resultado
+        /// </summary>
         private void btnOperar_Click(object sender, EventArgs e)
         {
             int n2;
