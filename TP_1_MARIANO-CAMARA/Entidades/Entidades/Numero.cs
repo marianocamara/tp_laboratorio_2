@@ -28,28 +28,22 @@ namespace Entidades
 
         #region Set
 
-        //private double Numero();
-
-        public Numero(double fltNumero) {
-            if (ValidarNumero(Convert.ToString(fltNumero)) != 0) {
-                this.numero = fltNumero;
-            }
+        public Numero(double numero) {
+            this.numero = numero;
         }
 
-        public Numero(string numero)
+        public Numero(string strNumero)
         {
-            if (ValidarNumero(numero) != 0)
-            {
-                this.numero = ValidarNumero(numero);
-            }
+            this.SetNumero = strNumero;
         }
-
-        public double SetNumero
+        
+        public string SetNumero
         {
             set
             {
-                if (ValidarNumero(Convert.ToString(value)) != 0) 
-                    this.numero = value;
+                double n = ValidarNumero(value);
+                if ( n != 0) 
+                    this.numero = n;
             }
         }
 

@@ -31,3 +31,14 @@ C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\MiCalculadora\MiCalculadora\ob
 C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
 C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
 C:\Users\matias.camara\Desktop\PROG 2\tp1(finito)\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_1_MARIANO-CAMARA\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_1_MARIANO-CAMARA\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_1_MARIANO-CAMARA\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_1_MARIANO-CAMARA\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_1_MARIANO-CAMARA\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_1_MARIANO-CAMARA\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_1_MARIANO-CAMARA\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_1_MARIANO-CAMARA\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_1_MARIANO-CAMARA\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_1_MARIANO-CAMARA\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_1_MARIANO-CAMARA\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
