@@ -1,0 +1,8 @@
+C:\Users\matias.camara\Desktop\PROG2\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\matias.camara\Desktop\PROG2\TP2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\matias.camara\Desktop\PROG2\TP2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\matias.camara\Desktop\PROG2\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\matias.camara\Desktop\PROG2\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\matias.camara\Desktop\PROG2\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\matias.camara\Desktop\PROG2\TP2\Esquema-TP-02\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\matias.camara\Desktop\PROG2\TP2\Esquema-TP-02\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
