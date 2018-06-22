@@ -31,3 +31,14 @@ C:\Users\matias.camara\Downloads\TP4-20180622T015933Z-001\TP4\MainCorreo\MainCor
 C:\Users\matias.camara\Downloads\TP4-20180622T015933Z-001\TP4\MainCorreo\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
 C:\Users\matias.camara\Downloads\TP4-20180622T015933Z-001\TP4\MainCorreo\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
 C:\Users\matias.camara\Downloads\TP4-20180622T015933Z-001\TP4\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_4_MARIANO-CAMARA\MainCorreo\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_4_MARIANO-CAMARA\MainCorreo\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_4_MARIANO-CAMARA\MainCorreo\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_4_MARIANO-CAMARA\MainCorreo\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_4_MARIANO-CAMARA\MainCorreo\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_4_MARIANO-CAMARA\MainCorreo\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_4_MARIANO-CAMARA\MainCorreo\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_4_MARIANO-CAMARA\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_4_MARIANO-CAMARA\MainCorreo\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_4_MARIANO-CAMARA\MainCorreo\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\matias.camara\Desktop\PROG2\TP_PROG2_MARIANO-CAMARA\tp_laboratorio_2\TP_4_MARIANO-CAMARA\MainCorreo\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
