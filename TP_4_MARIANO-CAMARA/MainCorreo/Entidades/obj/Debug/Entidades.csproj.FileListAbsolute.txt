@@ -1,0 +1,17 @@
+C:\Users\matias.camara\Desktop\PROG2\TP4\MainCorreo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\matias.camara\Desktop\PROG2\TP4\MainCorreo\Entidades\bin\Debug\Entidades.dll
+C:\Users\matias.camara\Desktop\PROG2\TP4\MainCorreo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\matias.camara\Desktop\PROG2\TP4\MainCorreo\Entidades\obj\Debug\Entidades.dll
+C:\Users\matias.camara\Desktop\PROG2\TP4\MainCorreo\Entidades\obj\Debug\Entidades.pdb
+D:\MC\TP4\MainCorreo\Entidades\bin\Debug\Entidades.dll
+D:\MC\TP4\MainCorreo\Entidades\bin\Debug\Entidades.pdb
+D:\MC\TP4\MainCorreo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\MC\TP4\MainCorreo\Entidades\obj\Debug\Entidades.dll
+D:\MC\TP4\MainCorreo\Entidades\obj\Debug\Entidades.pdb
+D:\MC\TP4\MainCorreo\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\matias.camara\Downloads\TP4-20180622T015933Z-001\TP4\MainCorreo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\matias.camara\Downloads\TP4-20180622T015933Z-001\TP4\MainCorreo\Entidades\obj\Debug\Entidades.dll
+C:\Users\matias.camara\Downloads\TP4-20180622T015933Z-001\TP4\MainCorreo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\matias.camara\Downloads\TP4-20180622T015933Z-001\TP4\MainCorreo\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\matias.camara\Downloads\TP4-20180622T015933Z-001\TP4\MainCorreo\Entidades\bin\Debug\Entidades.dll
+C:\Users\matias.camara\Downloads\TP4-20180622T015933Z-001\TP4\MainCorreo\Entidades\bin\Debug\Entidades.pdb
