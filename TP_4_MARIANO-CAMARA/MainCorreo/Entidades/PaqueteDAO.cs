@@ -73,7 +73,7 @@ namespace Entidades
             catch (Exception e)
             {
                 todoOk = false;
-                throw e;
+                //throw e;
             }
             finally
             {
