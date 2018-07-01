@@ -1,0 +1,5 @@
+C:\Users\matias.camara\Desktop\PROG2\TP_1_MARIANO-CAMARA\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\matias.camara\Desktop\PROG2\TP_1_MARIANO-CAMARA\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\matias.camara\Desktop\PROG2\TP_1_MARIANO-CAMARA\MiCalculadora\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\matias.camara\Desktop\PROG2\TP_1_MARIANO-CAMARA\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\matias.camara\Desktop\PROG2\TP_1_MARIANO-CAMARA\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
